@@ -1,0 +1,6 @@
+pydeseq2==0.5.4
+matplotlib==3.11.2
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1

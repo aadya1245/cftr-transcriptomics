@@ -1,0 +1,27 @@
+sample	gsm	donor	tissue	mapping_basis
+AWCTX_1B	GSM5244484	D1	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_1N	GSM5244486	D1	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_13B	GSM5244465	D13	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_13N	GSM5244467	D13	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_15B_V2	GSM5244469	D15	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_15N_V2	GSM5244471	D15	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_17B_V2	GSM5244472	D17	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_17N_V2	GSM5244474	D17	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_18B	GSM5244476	D18	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_18N	GSM5244478	D18	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_19B	GSM5244480	D19	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_19N	GSM5244482	D19	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_2B	GSM5244490	D2	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_2N	GSM5244492	D2	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_20B	GSM5244487	D20	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_20N	GSM5244489	D20	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_3B	GSM5244494	D3	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_3N	GSM5244496	D3	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_4B	GSM5244498	D4	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_4N	GSM5244500	D4	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_6B_V2	GSM5244501	D6	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_6N_V2	GSM5244503	D6	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_8B_V2	GSM5244505	D8	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_8N_V2	GSM5244507	D8	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_9B	GSM5244509	D9	Bronchial	donor/tissue label convention; uppercase cultured; suffix V2 retained
+AWCTX_9N	GSM5244511	D9	Nasal	donor/tissue label convention; uppercase cultured; suffix V2 retained

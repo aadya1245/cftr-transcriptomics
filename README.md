@@ -4,7 +4,7 @@ A reproducible Python reanalysis of public airway RNA-seq counts, with a donor-p
 
 **Question:** How do CFTR and other airway transport or epithelial genes differ between cultured nasal and bronchial samples from the same donors with cystic fibrosis?
 
-**Status:** Executed on 16 September 2026. Results are exploratory and conditional on the documented sample-label mapping. This repository contains computational work only. No CRISPR experiments, sample collection, sequencing, or other laboratory experiments were performed for this project.
+**Status:** Original analysis executed on 16 September 2026; source code, pinned inputs, tests, and outputs restored from the saved project archive on 22 September 2026. Results are exploratory and conditional on the documented sample-label mapping. This repository contains computational work only. No CRISPR experiments, sample collection, sequencing, or other laboratory experiments were performed for this project.
 
 ## Data and cohort
 
@@ -32,7 +32,7 @@ python src/analyze.py
 python src/plot_results.py
 ```
 
-The downloader verifies existing files and retrieves only missing files. Changed upstream resources fail checksum verification. Preserve the bundled snapshot to reproduce this run. The model uses two CPU workers. The GitHub workflow repeats validation and analysis, but has not yet run on GitHub.
+The downloader verifies existing files and retrieves only missing files. Changed upstream resources fail checksum verification. Preserve the bundled snapshot to reproduce this run. The model uses two CPU workers. The GitHub workflow repeats validation and analysis; check its run status before relying on a passing CI claim.
 
 ## Methods
 

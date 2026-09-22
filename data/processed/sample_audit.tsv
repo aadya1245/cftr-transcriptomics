@@ -1,0 +1,72 @@
+sample	included	reason
+AWCTX_1b	False	naive tissue outside contrast
+AWCTX_13b	False	naive tissue outside contrast
+AWCTX_15b	False	naive tissue outside contrast
+AWCTX_18b	False	naive tissue outside contrast
+AWCTX_19b	False	naive tissue outside contrast
+AWCTX_3b	False	naive tissue outside contrast
+AWCTX_4b	False	naive tissue outside contrast
+AWCTX_8b	False	naive tissue outside contrast
+AWCTX_9b	False	naive tissue outside contrast
+AWCTX_1n	False	naive tissue outside contrast
+AWCTX_13n	False	naive tissue outside contrast
+AWCTX_15n	False	naive tissue outside contrast
+AWCTX_17n	False	naive tissue outside contrast
+AWCTX_18n	False	naive tissue outside contrast
+AWCTX_19n	False	naive tissue outside contrast
+AWCTX_2n	False	naive tissue outside contrast
+AWCTX_20n	False	naive tissue outside contrast
+AWCTX_3n	False	naive tissue outside contrast
+AWCTX_4n	False	naive tissue outside contrast
+AWCTX_6n	False	naive tissue outside contrast
+AWCTX_8n	False	naive tissue outside contrast
+AWCTX_9n	False	naive tissue outside contrast
+AWCTX_13B	True	paired culture, donor-coded
+AWCTX_13N	True	paired culture, donor-coded
+AWCTX_15B_V2	True	paired culture, donor-coded
+AWCTX_15N_V2	True	paired culture, donor-coded
+AWCTX_17B_V2	True	paired culture, donor-coded
+AWCTX_17N_V2	True	paired culture, donor-coded
+AWCTX_18B	True	paired culture, donor-coded
+AWCTX_18N	True	paired culture, donor-coded
+AWCTX_19B	True	paired culture, donor-coded
+AWCTX_19N	True	paired culture, donor-coded
+AWCTX_1B	True	paired culture, donor-coded
+AWCTX_1N	True	paired culture, donor-coded
+AWCTX_20B	True	paired culture, donor-coded
+AWCTX_20N	True	paired culture, donor-coded
+AWCTX_2B	True	paired culture, donor-coded
+AWCTX_2N	True	paired culture, donor-coded
+AWCTX_3B	True	paired culture, donor-coded
+AWCTX_3N	True	paired culture, donor-coded
+AWCTX_4B	True	paired culture, donor-coded
+AWCTX_4N	True	paired culture, donor-coded
+AWCTX_6B_V2	True	paired culture, donor-coded
+AWCTX_6N_V2	True	paired culture, donor-coded
+AWCTX_8B_V2	True	paired culture, donor-coded
+AWCTX_8N_V2	True	paired culture, donor-coded
+AWCTX_9B	True	paired culture, donor-coded
+AWCTX_9N	True	paired culture, donor-coded
+254881	False	numeric label: mapping unresolved, excluded
+254882	False	numeric label: mapping unresolved, excluded
+261987	False	numeric label: mapping unresolved, excluded
+261988	False	numeric label: mapping unresolved, excluded
+279587	False	numeric label: mapping unresolved, excluded
+279588	False	numeric label: mapping unresolved, excluded
+280421	False	numeric label: mapping unresolved, excluded
+296199	False	numeric label: mapping unresolved, excluded
+310084	False	numeric label: mapping unresolved, excluded
+319937	False	numeric label: mapping unresolved, excluded
+324871	False	numeric label: mapping unresolved, excluded
+324872	False	numeric label: mapping unresolved, excluded
+327636	False	numeric label: mapping unresolved, excluded
+327637	False	numeric label: mapping unresolved, excluded
+329683	False	numeric label: mapping unresolved, excluded
+331348	False	numeric label: mapping unresolved, excluded
+331350	False	numeric label: mapping unresolved, excluded
+331356	False	numeric label: mapping unresolved, excluded
+331358	False	numeric label: mapping unresolved, excluded
+331361	False	numeric label: mapping unresolved, excluded
+332857	False	numeric label: mapping unresolved, excluded
+333661	False	numeric label: mapping unresolved, excluded
+333662	False	numeric label: mapping unresolved, excluded
