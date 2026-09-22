@@ -1,0 +1,14 @@
+{
+  "samples": 26,
+  "donors": 13,
+  "input_genes": 26363,
+  "filtered_genes": 15425,
+  "tested_genes": 15425,
+  "significant_genes": 6525,
+  "higher_nasal": 350,
+  "higher_bronchial": 432,
+  "enrichment_tests": 4328,
+  "significant_go_tests": 49,
+  "design_rank": 14,
+  "python": "3.12.14"
+}
